@@ -7,7 +7,9 @@ body {
 
   background: #ffffff url("img/bg-page.png") no-repeat top center;
 }
-
+a html {
+  color:black;
+}
 h1 {
   font-size: 24px;
   line-height: normal;
